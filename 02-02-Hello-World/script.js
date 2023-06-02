@@ -1,2 +1,2 @@
-var nome = 'World'
+var name = 'World'
 console.log('Hello, ' + name)
